@@ -1,4 +1,4 @@
-# 🎓 Campus Events & Opportunities Platform - Event Opps 
+# 🎓 Campus Events & Opportunities Platform - IGDTUW Opps 
 
 A modern, high-converting, Unstop-inspired event management and tracking platform built tailored for **IGDTUW**. The application features a clean, responsive UI styled around the signature collegiate green theme and operates entirely as a modular frontend prototype. 
 <br>
